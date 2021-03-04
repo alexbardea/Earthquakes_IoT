@@ -13,9 +13,5 @@ Alex Bardea - Earthquakes IoT data Project
  represented graphically. If the value of a monitored parameter exceeds a certain
  threshold (magnitude larger than 4.5), a notification will be sent to the user from
  a specific area.
- 
-<div style="width:260px;max-width:100%;">
- <div style="height:0;padding-bottom:216.15%;position:relative;">
- <iframe width="260" height="562" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/50fhtf"/>
- </div>
+
 
