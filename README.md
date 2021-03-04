@@ -16,8 +16,6 @@ Alex Bardea - Earthquakes IoT data Project
 <meta charset="utf-8">
 <link href='https://imgflip.com/gif/50fhtf' rel='stylesheet' type='text/css'>
 <div class="img-chooser">
-  <h1>The Matrix GIF Maker</h1>
-  <p>Choose an image --> Wait a few seconds --> Enter the matrix.</p>
   <input type="file">
 </div>
 
