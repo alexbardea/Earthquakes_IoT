@@ -13,5 +13,11 @@ Alex Bardea - Earthquakes IoT data Project
  represented graphically. If the value of a monitored parameter exceeds a certain
  threshold (magnitude larger than 4.5), a notification will be sent to the user from
  a specific area.
-<a href="https://imgflip.com/gif/50fhtf"><img src="https://imgflip.com/embed/50fhtf" title="made at imgflip"/></a>
+<meta charset="utf-8">
+<link href='https://imgflip.com/gif/50fhtf' rel='stylesheet' type='text/css'>
+<div class="img-chooser">
+  <h1>The Matrix GIF Maker</h1>
+  <p>Choose an image --> Wait a few seconds --> Enter the matrix.</p>
+  <input type="file">
+</div>
 
